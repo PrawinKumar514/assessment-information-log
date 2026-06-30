@@ -1,5 +1,13 @@
 # 📊 Assessment Log – Student Assessment Management System
 
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge&logo=vite)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-Routing-CA4245?style=for-the-badge&logo=react-router)
+![Recharts](https://img.shields.io/badge/Recharts-Analytics-8884D8?style=for-the-badge)
+![Context API](https://img.shields.io/badge/Context_API-State_Management-61DAFB?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-Academic_Project-0066CC?style=for-the-badge)
+
 A modern Student Assessment Management System developed as a DBMS academic project using React and Vite. The application provides an interactive dashboard for managing students, courses, assessments, enrollments, and academic performance while demonstrating core database management concepts such as relational schema design, primary keys, foreign keys, normalization, and many-to-many relationships.
 
 ---
