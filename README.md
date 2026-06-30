@@ -22,6 +22,42 @@ This project demonstrates how a real-world academic assessment platform can be d
 
 ---
 
+## 🌐 Live Demo
+
+Experience Assessment Log in action:
+
+**🔗 Live Application:** https://prawin-assessment-information-log.vercel.app
+
+### Key Features
+
+✅ Interactive Academic Dashboard
+
+✅ Student Record Management
+
+✅ Course Management & Semester Tracking
+
+✅ Assessment Creation & Evaluation
+
+✅ Student Score Management
+
+✅ Weighted Percentage Calculation
+
+✅ Pass/Fail Performance Analysis
+
+✅ Academic Reports & Analytics
+
+✅ Data Visualization with Charts
+
+✅ Database Schema & Relationship Viewer
+
+✅ Primary Key & Foreign Key Modeling
+
+✅ Many-to-Many Relationship Implementation
+
+✅ CRUD Operations Across Modules
+
+---
+
 ## 🎯 Objectives
 
 - Centralize academic assessment management
